@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Expo-Web",
+    "description": "An empty new project",
+    "slug": "Expo-Web",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4", "png", "svg"],
+      "nonPersistent": true
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
